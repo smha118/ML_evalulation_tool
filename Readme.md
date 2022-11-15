@@ -23,6 +23,6 @@ matplotlib: 3.4.3
 # Citation
 The paper is currently under review but if you find this code useful you can cite the preprint below.
 ```
-SM Ha, E Lin, J Klaunser, and P Adamson. (2022) Machine learning to predict ceftriaxone resistance using single nucleotide polymorphisms within a global database of Neisseria gonorrhoeae genomes, 02 September 2022, PREPRINT, *Research Square* [https://doi.org/10.21203/rs.3.rs-1999855/v1]
+SM Ha, E Lin, J Klaunser, and P Adamson. (2022) Machine learning to predict ceftriaxone resistance using single nucleotide polymorphisms within a global database of Neisseria gonorrhoeae genomes, 02 September 2022, PREPRINT, Research Square
 ```
-
+[https://doi.org/10.21203/rs.3.rs-1999855/v1]
